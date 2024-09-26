@@ -1,3 +1,7 @@
+'''
+  Orignal code by someone else improve/edited by me
+'''
+
 #!/bin/python
 from splinter import Browser
 import time
